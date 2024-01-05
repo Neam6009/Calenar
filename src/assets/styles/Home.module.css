@@ -1,0 +1,32 @@
+.homeAll {
+  padding: 1.5rem;
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+}
+
+.periods {
+  margin-top: -0.8rem;
+  margin-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  color: white;
+}
+
+.periods h1 {
+  color: black;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.periodsContainer {
+  display: flex;
+  gap: 1rem;
+}
+
+.timelineContainer {
+  margin-top: -0.9rem;
+}

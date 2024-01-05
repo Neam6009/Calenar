@@ -1,0 +1,21 @@
+.fixedPeriods {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 2.7rem;
+}
+
+.fixedPeriods p {
+  padding: 1rem;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  color: black;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}

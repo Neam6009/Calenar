@@ -1,0 +1,20 @@
+.periodBlock {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: rgb(125, 158, 248);
+  border-radius: 0.5rem;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 8rem;
+  height: 2rem;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.periodBlock:hover {
+  scale: 1.3;
+}
